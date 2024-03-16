@@ -54,4 +54,7 @@ alias reload="exec ${SHELL} -l"
 alias path='echo -e ${PATH//:/\\n}'
 
 # vscode-insiders alias
-alias code='code-insiders'
+# alias code='code-insiders'
+
+# python alias
+alias python='python3'
