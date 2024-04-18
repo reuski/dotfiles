@@ -192,8 +192,3 @@
   insteadOf = "bb:"
   pushInsteadOf = "bitbucket:"
   pushInsteadOf = "git://bitbucket.org/"
-
-[user]
-
-  name = Sami Reunanen
-  email = sami.reunanen@gmail.com
